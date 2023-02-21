@@ -1,5 +1,5 @@
 {
-    "name": "gabri/cep-reader-php",
+    "name": "xacarami/cep-reader-php",
     "description": "Busca de Cep Online",
     "type": "library",
     "license": "MIT",
